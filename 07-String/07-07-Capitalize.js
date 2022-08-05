@@ -16,3 +16,4 @@ console.log(capitalize('hello AudioWorkletd'));
 console.log(capitalize('Hello World'));
 
 //Bai nay k hieu sao chay khong duoc
+// Chay duoc ma (update 04/08/2022)
